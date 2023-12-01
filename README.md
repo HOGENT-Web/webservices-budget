@@ -18,6 +18,15 @@ choco install mysql -y
 choco install mysql.workbench -y
 ```
 
+For users of [Homebrew](https://brew.sh/):
+```
+brew install node
+brew install yarn
+brew install MySQL
+brew install --cask mysqlworkbench
+```
+
+
 ## Before starting/testing this project
 
 Create a `.env` (development) file with the following template.
